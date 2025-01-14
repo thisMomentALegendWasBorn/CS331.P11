@@ -1,0 +1,5 @@
+train: /kaggle/working/came-car/Data_329/train/images
+val: /kaggle/working/came-car/Data_329/val/images
+nc: 1
+names: 
+ 0: car
